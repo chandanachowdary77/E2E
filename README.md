@@ -210,7 +210,6 @@ docker-compose -f docker-compose.prod.yml up -d --scale worker=4
 - **Progressive Loading**: Chunked data delivery
 - **WebGL Acceleration**: GPU-powered rendering
 
-## 🤝 Contributing
 
 ### Development Workflow
 1. Fork the repository
@@ -225,16 +224,6 @@ docker-compose -f docker-compose.prod.yml up -d --scale worker=4
 - Component documentation
 - Unit test coverage >80%
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **Documentation**: [Wiki](wiki-url)
-- **Issues**: [GitHub Issues](issues-url)
-- **Discussions**: [GitHub Discussions](discussions-url)
-- **Email**: support@webgis-ai.com
 
 ## 📊 Performance Metrics
 
@@ -250,6 +239,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Data Protection**: Encrypted storage
 - **Privacy**: GDPR compliant
 
----
-
-**Built with ❤️ for the satellite imagery and GIS community**
